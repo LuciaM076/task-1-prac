@@ -1,0 +1,1 @@
+1. Command interpreter, Program execution, Scripting, Enviroment control, file and process management 2. The shell acts as a bridge between the user and operating system 3.They make life easier 4. its like the using a atm everything seems automated

@@ -1,0 +1,54 @@
+ history
+    1  npm -v
+    2  git clone https://github.com/LuciaM076/Hello-world.git
+    3  ls
+    4  cd Hello-world
+    5  ls
+    6    mkdir practice
+    7  mkdir practice
+    8  cd practice
+    9  echo $ null > practice.txt
+   10  echo $ Welcome to JS > practice.txt
+   11  echo Welcome to JS > practice.txt
+   12  git clone https://github.com/LuciaM076/task-1-prac.git
+   13  cd task-1-prac
+   14  code .
+   15  git pull origin main
+   16  git pull origin main
+   17  code .
+   18  git pull origin main
+   19  echo The shell is my translatornto the OS
+   20  pwd
+   21  ls
+   22  cd Document
+   23  cd ..
+   24  cd ..$
+   25  rn $
+   26  cd ..
+   27  mkdir shell_intro.sh
+   28  touch.txt shell_architechure_practice.sh
+   29  mkdir touch.txt > shell_architechure_pracrice
+   30  nano shell_intro.sh
+   31  cd task-1-prac
+   32  cd ~
+   33  cd task-1-prac
+   34  nano shell_intro.sh
+   35  chmd +x shell_intro.sh
+   36  chmod +x shell_intro.sh
+   37  ./shell_imtro.sh
+   38  ./shell_intro.sh
+   39  mkdir reflections.txt
+   40  touch reflection.txt
+   41  echo What is the purpose of a shell?> reflection.txt
+   42  echo  1 to command interpreter, 2. Program execution, 3. Scripting, 4.Enviromemnt control, 5. File and process management > reflection.txt
+   43  echo  The shell acts as a bridge between user and operating system > reflection.txt
+   44  echo the shell acts as a bridge between the user and operating system > reflection.txt
+   45  nana reflections.txt
+   46  nano reflection.txt
+   47  cd task-1-prac
+   48  echo 1. Command interpreter, Program execution, Scripting, Enviroment control, file and process management 2. The shell acts as a bridge between the user and operating system 3.They make life easier 4. its like the using a atm everything seems automated > reflection.txt
+   49  echo 1. Command interpreter, Program execution, Scripting, Enviroment control, file and process management 2. The shell acts as a bridge between the user and operating system 3.They make life easier 4. its like the using a atm everything seems automated > reflection.txt
+   50  echo 1. Command interpreter, Program execution, Scripting, Enviroment control, file and process management 2. The shell acts as a bridge between the user and operating system 3.They make life easier 4. its like the using a atm everything seems automated > reflection.txt
+   51  history
+
+
